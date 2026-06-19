@@ -5,3 +5,4 @@
 | cat  | bat |
 | find | fd  |
 | ls   | eza |
+| cd   | z   |
