@@ -10,9 +10,11 @@
 | :---------------------------------------------- | ----------------------------------------: |
 | `tmux`                                          |       create new session (default name 0) |
 | `tmux new -s <session_name>`                    |              create new session with name |
-| `prefix` + `d`                                  | Detach (tmux still running in background) |
+| `prefix` `d`                                    | Detach (tmux still running in background) |
+| `prefix` `s`                                    |                             swap sessions |
 | `tmux ls`                                       |                          List of sessions |
 | `tmux a`                                        |                     Open recently session |
+| `prefix` `$`                                    |                    rename current session |
 | `exit` or `tmux kill-session -t <session_name>` |                             close session |
 
 ---
@@ -26,6 +28,8 @@
 | `prefix` `arrow`     |          focus sessions |
 | `prefix` `z`         |                    zoom |
 | `exit` or `CTRL + d` | close currently session |
+| `prefix` `[`         |         Scroll and Copy |
+| `prefix` `]`         |                   paste |
 
 ### Windows
 
