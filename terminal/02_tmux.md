@@ -2,7 +2,7 @@
 
 ## Shortcuts
 
-`CTRL + b` called prefix
+`CTRL + b` called `prefix`
 
 ### Sessions Management
 
