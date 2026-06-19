@@ -26,3 +26,13 @@
 | `prefix` `arrow`     |          focus sessions |
 | `prefix` `z`         |                    zoom |
 | `exit` or `CTRL + d` | close currently session |
+
+### Windows
+
+| keys           |           actions |
+| :------------- | ----------------: |
+| `prefix` `c`   | create new window |
+| `prefix` `n`   |       next window |
+| `prefix` `p`   |   previous window |
+| `prefix` `0-9` |    go to no. page |
+| `prefix` `w`   |   list of windows |
