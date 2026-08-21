@@ -1,12 +1,12 @@
-iwctl
-	device list
-	station <name> scan
-	station <name> get-networks
-	station <name> connect <wifi-name>
-exit
+`iwctl`
 
-ping -c 3 google.com
+- `device list`
+- `station <name> scan`
+- `station <name> get-networks`
+- `station <name> connect <wifi-name>`
 
-archlinux
+`exit`
+
+`ping -c 3 google.com`
 
 [[0.1_archinstall]]
